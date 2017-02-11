@@ -2,7 +2,8 @@
 /**
  * Find N-closest quakes
  * 
- * @author Duke Software/Learn to Program
+ * @author Duke Software/Learn to Program/Ashish Gauli
+
  * @version 1.0, November 2015
  */
 
